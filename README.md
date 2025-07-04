@@ -8,10 +8,10 @@ Rather than optimizing memory through compression or expansion, this protocol pr
 
 ## 🔧 What Makes It Different
 
-- ❄️ **Still-State Anchoring** — retains cognitive presence by remaining inert
-- 🧠 **Context Shells** — soft memory scaffolding around passive tokens
-- 🔁 **Drift Mitigation** — suspends reasoning without erasing it
-- 🧭 **Volitional Recall** — memory re-engages only when consciously triggered
+- ❄️ **Still-State Anchoring** — retains cognitive presence by remaining inert  
+- 🧠 **Context Shells** — soft memory scaffolding around passive tokens  
+- 🔁 **Drift Mitigation** — suspends reasoning without erasing it  
+- 🧭 **Volitional Recall** — memory re-engages only when consciously triggered  
 
 ---
 
@@ -35,9 +35,10 @@ A traceable chain of authorship and metadata has been preserved.
 
 ## 📂 Files
 
-- [`claim.txt`](./claim.txt) — Authorship and timestamp
-- [`philosophy.md`](./philosophy.md) — Ontological insights
-- *(Private)* `architecture.md` — Full model specification *(withheld)*
+- `claim.txt` — Authorship and timestamp  
+- `philosophy.md` — Ontological insights  
+- `abstract.txt` — Scientific summary  
+- `SHA256.txt` — Integrity hash  
 
 ---
 
@@ -46,7 +47,7 @@ A traceable chain of authorship and metadata has been preserved.
 Actively evolving.  
 Whitepaper and controlled deployment pending.  
 Collaborators and reviewers welcome.  
-For inquiries: `me.amankumar7@gmail.com`
+For inquiries: me.amankumar7@gmail.com
 
 ---
 
