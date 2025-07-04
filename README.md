@@ -32,7 +32,7 @@ This repository establishes the **first recorded origin and formalization** of t
 `bafybeibzcvpj6zxyk2a7r6vcx5khpehivq6rbdyl74qixz27l7dtbe36m4`
 
 ## Ethereum TX (Goerli Testnet):  
-`0xa9f3cdb...` *(Insert full TX hash)*
+Pending finalization — will be published and linked here upon completion.
 
 ---
 
