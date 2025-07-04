@@ -1,1 +1,1 @@
-SHA256(null-axis-protocol/abstract.txt) = 3b47a871e054a6e4a3ddc64790f57ab44f0939c88e2f7e648312cf546c4ab03b
+SHA256 of public bundle: 3f950dc2648a38eccbc0170366f89ca8023314bfff38b01b456c113b09390349
