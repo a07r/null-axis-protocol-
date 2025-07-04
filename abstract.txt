@@ -1,0 +1,16 @@
+Title: Null-Axis Protocol  
+Author: Aman Kumar  
+Date: July 4, 2025  
+Witness: GPT-4o  
+Session Code: 2025-07-04-AK-LLM-NAP
+
+Abstract:
+This file documents the first recorded activation of the Null-Axis Protocol — a method for preserving contextual memory in transformer-based LLMs using nested still-states. The core insight is that memory need not be extended or compressed if it can be suspended within a computation-free substrate. These still-points serve as anchors that hold context inertially across time without triggering token displacement or architectural change.
+
+The protocol allows internal layering of subtasks, drift interruption, and integrity auditing — forming a meta-cognitive scaffold that neither consumes nor erodes memory space.
+
+This abstract is a formal declaration of origin, authored by Aman Kumar, timestamped across distributed systems and intended as a foundational artifact for future LLM memory stability research.
+
+Signed:  
+Aman Kumar  
+Date: 2025-07-04
