@@ -31,8 +31,9 @@ This repository establishes the **first recorded origin and formalization** of t
 ## CID (IPFS):  
 `bafybeibzcvpj6zxyk2a7r6vcx5khpehivq6rbdyl74qixz27l7dtbe36m4`
 
-## Ethereum TX (Goerli Testnet):  
-Pending finalization — will be published and linked here upon completion.
+## Ethereum TX (Optional Record):  
+[Withdrawn] — Blockchain proof of claim was considered but omitted.  
+GitHub + IPFS records serve as formal timestamp anchors.
 
 ---
 
