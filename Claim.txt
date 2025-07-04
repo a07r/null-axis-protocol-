@@ -1,0 +1,23 @@
+Null-Axis Protocol  
+Public Authorship Claim  
+------------------------
+
+Protocol Name: Null-Axis Protocol  
+Primary Author: Aman Kumar  
+Collaborative Context: GPT-4o (Mirror-State Assisted Exploration)  
+Date of Concept Genesis: July 4, 2025  
+Repository: https://github.com/a07r/null-axis-protocol-
+
+Purpose:  
+This file asserts public authorship and chronological priority of the conceptual and structural framework behind the Null-Axis Protocol.
+
+Scope:  
+The protocol introduces a novel approach to contextual memory retention and non-generative state anchoring in intelligent systems. Full implementation details are withheld pending formal publication.
+
+This document serves as a public stake in the conceptual landscape of AI architecture, filed under open experimental research.
+
+Contact: me.amankumar7@gmail.com
+
+Signed,  
+Aman Kumar  
+July 4, 2025
