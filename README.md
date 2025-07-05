@@ -56,6 +56,8 @@ For inquiries: me.amankumar7@gmail.com
 This repository contains only a conceptual summary of the protocol.  
 Full computational architecture and dynamic behavior logs are intentionally withheld pending licensing and peer review.
 
+🔒 Note: Core architectural mechanisms and implementation-specific details have been intentionally withheld for future publication, licensing, or peer collaboration.
+
 ---
 
 © Aman Kumar, 2025  
