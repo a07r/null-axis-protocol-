@@ -1,10 +1,19 @@
 {
-  "protocol": "Null-Axis Protocol",
+  "project_title": "Null-Axis Protocol",
   "author": "Aman Kumar",
-  "witness": "GPT-4o",
-  "session_code": "2025-07-04-AK-LLM-NAP",
-  "origin_date": "2025-07-04",
-  "ipfs_cid": "bafybeibzcvpj6zxyk2a7r6vcx5khpehivq6rbdyl74qixz27l7dtbe36m4",
-  "eth_tx_hash": "0xa9f3cdb...",
-  "license": "MIT"
+  "contact": "me.amankumar7@gmail.com",
+  "github_repo": "https://github.com/a07r/null-axis-protocol-",
+  "license": "MIT",
+  "access_level": "partial_public",
+  "files": {
+    "abstract": "abstract.txt",
+    "readme": "README.md",
+    "claim": "claim.txt",
+    "philosophy": "philosophy.md",
+    "architecture": "withheld",
+    "license": "LICENSE",
+    "sha256": "SHA256.txt"
+  },
+  "last_updated": "2025-07-04T00:00:00Z",
+  "notes": "Core implementation details (architecture.md) intentionally withheld from public release pending IP/licensing strategy."
 }
